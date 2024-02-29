@@ -15,7 +15,7 @@ pkg install git
 
 rm -rf SHADIN-FUCK
 
-https://github.com/SHADIN-143/SHADIN-FUCK.git
+git clone https://github.com/SHADIN-143/SHADIN-FUCK.git
 
 cd SHADIN-FUCK
 
